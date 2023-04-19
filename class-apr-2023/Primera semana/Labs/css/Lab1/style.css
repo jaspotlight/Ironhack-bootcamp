@@ -60,6 +60,10 @@ h5 {
     font-size: 2em;
 }
 
+.nav-bar li {
+    list-style: none;
+}
+
 .header1 {
     background-image: url(https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/ironhack-skydive-background.jpg);
     background-position: 0 0;
